@@ -1,0 +1,6 @@
+{
+  "name": "KostPay - Pembayaran & Jadwal Kost",
+  "description": "Aplikasi pembayaran sewa kost, tagihan listrik pulsa kWh, jadwal pemeliharaan fasilitas & servis AC, terhubung ke WhatsApp dan Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
